@@ -68,6 +68,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-- Your Name - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
+- Your Name - [drmanas345@gmail.com](mailto:drmanas345@gmail.com)
 
-Project Link: [https://github.com/KalyanMurapaka45/Medical-Assisstant](https://github.com/KalyanMurapaka45/Medical-Assisstant)
+- Project Link: [https://github.com/Gumnami-555/Dr-GemiAI](https://github.com/Gumnami-555/Dr-GemiAI)
